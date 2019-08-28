@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.WestChester.Intramurals</groupId>
-	<artifactId>TeamRandomizer</artifactId>
+	<artifactId>Team_Generator</artifactId>
 	<version>0.0.1</version>
 	<name>Team_Generator</name>
 	<description>
@@ -19,7 +19,7 @@
 	</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
