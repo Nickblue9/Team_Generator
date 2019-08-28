@@ -10,9 +10,13 @@
 	</parent>
 	<groupId>com.WestChester.Intramurals</groupId>
 	<artifactId>TeamRandomizer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>TeamRandomizer</name>
-	<description>Creates Random Teams to be used for different trainings through a non-complex algorithm strutted to take in someones sports, experience and level to help develop fair teams.</description>
+	<version>0.0.1</version>
+	<name>Team_Generator</name>
+	<description>
+		Creates Random Teams to be used for different trainings through
+		a non-complex algorithm strutted to take in someones sports,
+		experience and level to help develop fair teams.
+	</description>
 
 	<properties>
 		<java.version>11</java.version>
